@@ -1,0 +1,18 @@
+{
+  "name": "subrol",
+  "version": "1.0.0",
+  "description": "Kanala abone olan kişilere otomatik rol verir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "glob": "^7.2.0",
+    "tesseract.js": "^4.1.2"
+  }
+}
